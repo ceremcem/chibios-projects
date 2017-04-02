@@ -1,3 +1,3 @@
 ## ChibiOS code location
-CHIBIOS = $(ROOTDIR)/../ChibiOS-RT
-CHIBIOS_CONTRIB = $(ROOTDIR)/../ChibiOS-Contrib
+CHIBIOS = ${HOME}/embedded/ChibiOS/ChibiOS
+CHIBIOS_CONTRIB = ${HOME}/embedded/ChibiOS/ChibiOS-Contrib
